@@ -13,3 +13,11 @@ Write a statement that prints the length of the previous string.
 Write a statement using the index operator that returns the "L" in "apple"
 
 """
+# Liam O'Hara
+
+# 1 'Fairfield' + 'Prep'
+# 2 '-' * 20
+# print("I'm loving this short story I'm reading, " + '"The Fall of the House of Usher"')
+# len("I'm loving this short story I'm reading, " + '"The Fall of the House of Usher"')
+# x ="L" in "apple"
+# print(x)
